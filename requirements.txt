@@ -6,3 +6,6 @@ python-dotenv
 streamlit-folium
 sqlalchemy
 openai
+streamlit
+pandas
+seaborn
